@@ -1,4 +1,4 @@
-//carrito compra simple
+// Carrito de compras simple
 let carrito = [];
 document.querySelectorAll('button').forEach((btn, index) => {
  btn.addEventListener('click', () => {
